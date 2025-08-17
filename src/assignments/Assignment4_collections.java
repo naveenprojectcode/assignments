@@ -172,8 +172,7 @@ public class Assignment4_collections {
 					Final_details.put("product", product_details);; 
 					
 					
-					System.out.println("Product supplier details is "+ Final_details.get("product").get(1).get("Supplier"));// dont get idea to fetch supplier
-		
+					System.out.println("Product supplier details is "+ Final_details.get("product").get(1).get("Supplier"));
 
 	}
 
