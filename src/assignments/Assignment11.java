@@ -20,13 +20,36 @@ public class Assignment11 {
 				System.out.print(Arr[k]);
 				
 				
+				
+				
 			}
 			System.out.printf("%n");
 			j--;
 			
 			}
 			
+		j=5;
+for (int i=0;i<Arr.length;i++)
+		
+			
+		{
+			
+			for (int k=0;k<=(Arr.length)-j;k++)
+			{
+				System.out.print(Arr[k]);
+				
+				
+				
+				
+			}
+			System.out.printf("%n");
+			j--;
+			
+			}
+		
+		
 		}
+	
 	
 
 }
